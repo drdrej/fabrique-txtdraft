@@ -1,4 +1,11 @@
-fabrique-preprocessor
-=====================
+## Abstract
 
-a text-preprocessor used in fabrique to prepare files from draft.
+state: experimental
+see:   fabrique-js
+
+A text-preprocessor used in fabrique to prepare files from drafts.
+
+
+
+## License
+MIT

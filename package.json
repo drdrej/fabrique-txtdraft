@@ -1,0 +1,22 @@
+{
+  "name": "fabrique-txtdraft",
+  "version": "0.0.1",
+  "description": "a preprocessor used in fabrique-js to preprocess text-drafts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drdrej/fabrique-txtdraft.git"
+  },
+  "keywords": [
+    "pre-processor",
+    "text",
+    "text-commands"
+  ],
+  "author": "drdrej",
+  "license": "MIT",
+  "gitHead": "07df62930a7ed5199127ffe84ed340b47b27beae",
+  "readmeFilename": "README.md"
+}
