@@ -18,5 +18,8 @@
   "author": "drdrej",
   "license": "MIT",
   "gitHead": "07df62930a7ed5199127ffe84ed340b47b27beae",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "pegjs": "~0.7.0"
+  }
 }
